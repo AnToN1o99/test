@@ -13,4 +13,8 @@ public class Main {
         }
         return instance;
     }
+
+    public Frazione getFrazione() {
+        return f;
+    }
 }
